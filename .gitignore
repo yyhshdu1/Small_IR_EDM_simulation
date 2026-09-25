@@ -1,0 +1,6 @@
+# separate repo (github.com/yyhshdu1/CeNTREX_state_cleanup_new)
+CeNTREX_state_cleanup_new/
+_cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
